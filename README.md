@@ -1,6 +1,6 @@
 # java-masterclass-udemy
-***STILL A WIP***. 
-Solutions to the Java Programming Masterclass on Udemy.  
+***STILL A WIP***\ 
+Solutions to the Java Programming Masterclass on Udemy\  
 Exercise problems begin at Section 4.  
 
 Section 4 - Java Tutorial: Expressions, Statements, Code blocks, Methods, and more. 
