@@ -1,4 +1,4 @@
-# Solutions to the "Java Programming Masterclass for Software Developers" exercises by Tim Buchalka on Udemy
+# Exercise solutions to the "Java Programming Masterclass for Software Developers" course taught by Tim Buchalka on Udemy
 ***STILL A WIP***.    
 Solutions to the Java Programming Masterclass on Udemy.  
 Exercise problems begin at Section 4.  
