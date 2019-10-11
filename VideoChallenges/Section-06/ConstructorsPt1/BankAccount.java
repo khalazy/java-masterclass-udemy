@@ -51,7 +51,7 @@ public class BankAccount {
     }
 
     public void withdrawal(double withdrawalDollars) {
-        if(balance <= 0) {
+        if(balance < 0) {
             System.out.println("Insufficient Funds");
         } else {
             balance -= withdrawalDollars;
