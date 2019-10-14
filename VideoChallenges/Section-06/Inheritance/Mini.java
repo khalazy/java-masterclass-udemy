@@ -6,8 +6,8 @@ public class Mini extends Car {
     public Mini() {
     }
 
-    public Mini(boolean handSteering, int gears, int speed, String color, String model) {
-        super(handSteering, gears, speed);
+    public Mini(String color, String model) {
+        super(true, 6, 140);
         this.color = color;
         this.model = model;
     }
