@@ -3,7 +3,7 @@ public class Test {
 
         Vehicle tank = new Vehicle(false, 0, 45);
         Car hatchback = new Car(true, 6, 130);
-        Mini cooperS = new Mini(true, 6, 140, "silver", "f56");
+        Mini cooperS = new Mini("silver", "f56");
 
         System.out.println("Tank = " + tank.isHandSteering() + " " + tank.getGears() + " " + tank.getSpeed());
         System.out.println("Hatchback = " + hatchback.isHandSteering() + " " + hatchback.getGears() + " " + hatchback.getSpeed());
